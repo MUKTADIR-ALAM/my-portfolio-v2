@@ -97,7 +97,7 @@ const Contact = () => {
         <div className="text-lg font-thin">
           <p>For project enquries</p>
           <p>
-            or say 'Hello' -{" "}
+            or say Hello -{" "}
             <span className="font-semibold text-designColor">
               muktadiralam38@gmail.com
             </span>
